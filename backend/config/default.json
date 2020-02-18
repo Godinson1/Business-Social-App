@@ -1,3 +1,4 @@
 {
-    "ATLAS_URI": "mongodb+srv://godinson:godinson@cluster0-rk32x.gcp.mongodb.net/test?retryWrites=true&w=majority"
+    "ATLAS_URI": "mongodb+srv://godinson:godinson@cluster0-rk32x.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "Jwt_Secret": "bizz_App"
 }
